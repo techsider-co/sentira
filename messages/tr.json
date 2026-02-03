@@ -1,0 +1,77 @@
+{
+  "metadata": {
+    "title": "Sentira | Saniyeleri Hayata Dönüştüren Teknoloji",
+    "description": "Otonom trafik güvenliği. Yapay zeka ve görüntü işleme ile kritik noktalarda gerçek zamanlı kaza tespiti ve otomatik müdahale. YOLOv8 AI ile hayat kurtarın.",
+    "openGraphTitle": "Sentira - Otonom Trafik Güvenliği Teknolojisi",
+    "openGraphDescription": "Kritik noktalarda yapay zeka destekli trafik güvenliği. Gerçek zamanlı kaza tespiti, otonom IoT tetikleme."
+  },
+  "hero": {
+    "badge": "Otonom Trafik Güvenliği Teknolojisi",
+    "title": "Sentira",
+    "titleHighlight": "Saniyeleri Hayata Dönüştüren Teknoloji",
+    "description": "Kritik noktalarda otonom trafik güvenliği. Yapay zeka ve görüntü işleme teknolojisiyle gerçek zamanlı kaza tespiti ve otomatik müdahale sistemi.",
+    "descriptionHighlight": "YOLOv8 AI ile hızlı tespit, saniyeler içinde hayat kurtarın.",
+    "watchDemo": "Demoyu İzle",
+    "contact": "İletişime Geç",
+    "modalClose": "Kapat",
+    "videoNotSupported": "Tarayıcınız video oynatmayı desteklemiyor."
+  },
+  "nav": {
+    "whySentira": "Neden Sentira?",
+    "solutions": "Çözümler",
+    "awards": "Ödüller",
+    "contact": "İletişim",
+    "languages": {
+      "tr": "Türkçe",
+      "en": "English"
+    }
+  },
+  "whySentira": {
+    "title": "Neden Sentira?",
+    "stat1Category": "Trafik Kazaları",
+    "stat1Number": "3.9M+",
+    "stat1Text": "Son 3 yılda Türkiye'de gerçekleşen trafik kazası sayısı.",
+    "stat2Category": "Kritik Süre",
+    "stat2Number": "10 Saniye",
+    "stat2Text": "Zincirleme bir facianın oluşması için gereken kritik süre.",
+    "stat3Category": "AI Tespit",
+    "stat3Number": "<1 Saniye",
+    "stat3Text": "Sentira'nın yapay zeka ile olayları tespit etme hızı."
+  },
+  "solutions": {
+    "title": "Pasif İzleme Değil, Aktif Müdahale",
+    "yoloTitle": "YOLOv8 AI Analizi",
+    "yoloDesc": "Nesneleri ve kazaları gerçek zamanlı, %99 doğrulukla tespit edin.",
+    "iotTitle": "Otonom IoT Tetikleme",
+    "iotDesc": "Kaza anında uyarı levhalarını ve bariyerleri saniyeler içinde otomatik yönetin.",
+    "dashboardTitle": "Bulut Tabanlı Dashboard",
+    "dashboardDesc": "Tüm altyapıyı merkezi bir panelden, dinamik kural setleriyle izleyin.",
+    "videoNotSupported": "Tarayıcınız video oynatmayı desteklemiyor."
+  },
+  "awards": {
+    "badge": "Ulaştırma ve Altyapı Bakanlığı Ödüllü Proje",
+    "title": "Küresel Hedeflerle Uyumlu",
+    "quote": "Sentira, BM Sürdürülebilir Kalkınma Amaçları 11.2 ve 11.a doğrultusunda, güvenli ve dayanıklı şehirler için teknolojiyi insan hayatının hizmetine sunar.",
+    "imageAlt": "Sentira Ödül"
+  },
+  "footer": {
+    "quickLinks": "Hızlı Bağlantılar",
+    "description": "Yapay zeka ve görüntü işleme ile kritik noktalarda otonom trafik güvenliği. Fikirden ürüne, stratejik iş ortağınız.",
+    "tagline": "Saniyeleri Hayata Dönüştüren Teknoloji",
+    "copyrightPrefix": "2026 © ",
+    "copyrightSuffix": ". Tüm hakları saklıdır.",
+    "brandBeforeLink": " bir ",
+    "brandAfterLink": " markasıdır.",
+    "services": "Hizmetler",
+    "yolo": "YOLOv8 AI Analizi",
+    "iot": "Otonom IoT Tetikleme",
+    "dashboard": "Bulut Dashboard",
+    "consulting": "Trafik Güvenliği Danışmanlığı",
+    "integration": "Entegrasyon & Destek",
+    "company": "Kurumsal",
+    "about": "Hakkımızda",
+    "portfolio": "Portfolyo",
+    "contact": "İletişim",
+    "contactUs": "Bize Ulaşın"
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "metadata": {
+    "title": "Sentira | Turning Seconds Into Lives",
+    "description": "Autonomous traffic safety at critical points. Real-time accident detection and automatic response with AI and computer vision. Save lives with YOLOv8 AI.",
+    "openGraphTitle": "Sentira - Autonomous Traffic Safety Technology",
+    "openGraphDescription": "AI-powered traffic safety at critical points. Real-time accident detection, autonomous IoT triggering."
+  },
+  "hero": {
+    "badge": "Autonomous Traffic Safety Technology",
+    "title": "Sentira",
+    "titleHighlight": "Turning Seconds Into Lives",
+    "description": "Autonomous traffic safety at critical points. Real-time accident detection and automatic response system with AI and computer vision technology.",
+    "descriptionHighlight": "YOLOv8 AI: fast detection, save lives in seconds.",
+    "watchDemo": "Watch Demo",
+    "contact": "Contact Us",
+    "modalClose": "Close",
+    "videoNotSupported": "Your browser does not support video playback."
+  },
+  "nav": {
+    "whySentira": "Why Sentira?",
+    "solutions": "Solutions",
+    "awards": "Awards",
+    "contact": "Contact",
+    "languages": {
+      "tr": "Türkçe",
+      "en": "English"
+    }
+  },
+  "whySentira": {
+    "title": "Why Sentira?",
+    "stat1Category": "Traffic Accidents",
+    "stat1Number": "3.9M+",
+    "stat1Text": "Traffic accidents in Turkey in the last 3 years.",
+    "stat2Category": "Critical Time",
+    "stat2Number": "10 Seconds",
+    "stat2Text": "The critical time for a chain-reaction disaster to occur.",
+    "stat3Category": "AI Detection",
+    "stat3Number": "<1 Second",
+    "stat3Text": "Sentira's AI-powered incident detection speed."
+  },
+  "solutions": {
+    "title": "Not Passive Monitoring, Active Intervention",
+    "yoloTitle": "YOLOv8 AI Analysis",
+    "yoloDesc": "Detect objects and accidents in real time with 99% accuracy.",
+    "iotTitle": "Autonomous IoT Triggering",
+    "iotDesc": "Automatically control warning signs and barriers within seconds of an accident.",
+    "dashboardTitle": "Cloud-Based Dashboard",
+    "dashboardDesc": "Monitor all infrastructure from a central panel with dynamic rule sets.",
+    "videoNotSupported": "Your browser does not support video playback."
+  },
+  "awards": {
+    "badge": "Ministry of Transport and Infrastructure Award-Winning Project",
+    "title": "Aligned with Global Goals",
+    "quote": "Sentira serves human life with technology for safe and resilient cities, in line with UN Sustainable Development Goals 11.2 and 11.a.",
+    "imageAlt": "Sentira Award"
+  },
+  "footer": {
+    "quickLinks": "Quick Links",
+    "description": "Autonomous traffic safety at critical points with AI and computer vision. Your strategic partner from idea to product.",
+    "tagline": "Turning Seconds Into Lives",
+    "copyrightPrefix": "2026 © ",
+    "copyrightSuffix": ". All rights reserved.",
+    "brandBeforeLink": " is a brand of ",
+    "brandAfterLink": ".",
+    "services": "Services",
+    "yolo": "YOLOv8 AI Analysis",
+    "iot": "Autonomous IoT Triggering",
+    "dashboard": "Cloud Dashboard",
+    "consulting": "Traffic Safety Consulting",
+    "integration": "Integration & Support",
+    "company": "Company",
+    "about": "About",
+    "portfolio": "Portfolio",
+    "contact": "Contact",
+    "contactUs": "Contact Us"
+  }
+}
