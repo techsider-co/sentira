@@ -108,7 +108,7 @@ export default function WhiteBlueHero() {
             </button>
             <video
               ref={videoRef}
-              src="/SentiraDemo.mp4"
+              src="/sentira.mp4"
               className="w-full aspect-video object-contain"
               controls
               autoPlay

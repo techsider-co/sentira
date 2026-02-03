@@ -44,7 +44,7 @@ export default function SolutionFeaturesSection() {
                 playsInline
                 preload="metadata"
               >
-                <source src="/SentiraDemo.mp4" type="video/mp4" />
+                <source src="/sentira.mp4" type="video/mp4" />
                 {t('videoNotSupported')}
               </video>
             </div>
